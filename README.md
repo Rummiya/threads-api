@@ -17,15 +17,15 @@
 ## Для запуска проекта, необходимо выполнить следующие шаги:
 Склонировать репозиторий с api.
 ```
-git clone https://github.com/brian7346/express-threads-api.git
+git clone https://github.com/Rummiya/threads-api.git
 ```
 Склонировать репозиторий с клиентским приложением.
 ```
-git clone https://github.com/brian7346/react-threads.git
+git clone https://github.com/Rummiya/threads.git
 ```
 Открыть терминал (или командную строку) и перейти в корневую директорию сервера.
 ```
-cd express-threads-api
+cd threads-api
 ```
 Переименовать файл .env.local (убрать .local)
 
